@@ -56,8 +56,13 @@ Code editing and development
 
 System Requirements
 Windows 10 or Windows 11
+
 Python 3.12
+
 XAMPP
+
 Visual Studio Code
+
 MySQL Connector/Python
+
 Matplotlib
