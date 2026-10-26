@@ -9,29 +9,49 @@ The application provides a centralized place to view subjects, manage study task
 Features
 
 Dashboard: View academic subjects and task counts.
+
 Add Tasks: Create new study tasks.
+
 Edit Tasks: Update existing task details.
+
 Delete Tasks: Remove tasks that are no longer required.
+
 Mark as Completed: Update task completion status.
+
 Deadline Alerts: Identify tasks that need attention.
+
 Study Progress Chart: Visualize completed and pending tasks.
+
 Database Integration: Store and retrieve task information using MySQL.
 
 Technologies Used
 
 Python 3.12
+
 Application logic
+
 Tkinter
+
 Graphical user interface
+
 MySQL
+
 Database management
+
 XAMPP
+
 Local database environment
+
 MySQL Connector/Python
+
 Python–MySQL connectivity
+
 Matplotlib
+
 Progress charts
+
 Visual Studio Code
+
 Code editing and development
 
 System Requirements
